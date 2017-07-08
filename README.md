@@ -30,7 +30,7 @@ Otherwise display the message like “The channel cannot be tagged
 
 +findChannelRating(float rating):ArrayList<Channel>
 
-This method will return all the channels whose rating is greater than the given rating*/
+This method will return all the channels whose rating is greater than the given rating
 
 Demo  
 
